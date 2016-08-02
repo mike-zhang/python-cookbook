@@ -1,4 +1,5 @@
-python-cookbook
+python-cookbook 第三版
 ===============
+Python Cookbook 第三版 随书示例代码
 
-Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly &amp; Associates, May, 2013. 
+published by O'Reilly &amp; Associates, May, 2013. 
